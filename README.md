@@ -39,7 +39,7 @@ projeto-login/
 ## 🔑 Credenciais para Teste
 ```text
 Campo	      Valor
-Usuário      admin
+Usuário        admin
 Senha	      12345
 ```
 
