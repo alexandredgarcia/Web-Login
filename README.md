@@ -18,9 +18,10 @@ Objetivo: Projeto desenvolvido para fins de estudo e prática do framework Flask
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-Python 3.x
-Flask
-HTML (Templates Jinja2)
+
+- Python 3.x
+- Flask
+- HTML (Templates Jinja2)
 
 ---
 
