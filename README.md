@@ -1,4 +1,4 @@
-## 🔐 wEB Login 
+## 🔐 Web Login 
 
 Uma aplicação web simples desenvolvida com Python e Flask para demonstrar os conceitos fundamentais de autenticação, manipulação de rotas, formulários HTML, requisições HTTP (GET e POST) e mensagens temporárias (Flash Messages).
 Objetivo: Projeto desenvolvido para fins de estudo e prática do framework Flask.
