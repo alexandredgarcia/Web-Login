@@ -1,4 +1,4 @@
-## 🔐 Sistema de Login com Flask
+## 🔐 wEB Login 
 
 Uma aplicação web simples desenvolvida com Python e Flask para demonstrar os conceitos fundamentais de autenticação, manipulação de rotas, formulários HTML, requisições HTTP (GET e POST) e mensagens temporárias (Flash Messages).
 Objetivo: Projeto desenvolvido para fins de estudo e prática do framework Flask.
@@ -86,4 +86,11 @@ As credenciais estão definidas diretamente no código apenas para fins de demon
 
 ---
 
+👤 Autor: Desenvolvido por Alexandre Dias Garcia
+
+Aspirante em Desenvolvimento Python
+
+🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
+
+📧 alexandredgarcia23@gmail.com
 
