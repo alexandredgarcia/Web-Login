@@ -45,6 +45,107 @@ Senha	      12345
 
 ---
 
+## 📷 Demonstração
+
+Tela inicial (Login)
+┌─────────────────────────────────┐
+│             Entrar              │
+│                                 │
+│ Usuário                         │
+│ ┌─────────────────────────────┐ │
+│ │                             │ │
+│ └─────────────────────────────┘ │
+│                                 │
+│ Senha                          │
+│ ┌─────────────────────────────┐ │
+│ │ •••••••••                   │ │
+│ └─────────────────────────────┘ │
+│                                 │
+│ ┌─────────────────────────────┐ │
+│ │          Acessar            │ │
+│ └─────────────────────────────┘ │
+└─────────────────────────────────┘
+Login com erro
+┌─────────────────────────────────┐
+│             Entrar              │
+│                                 │
+│ ┌─────────────────────────────┐ │
+│ │ Usuário ou senha            │ │
+│ │ incorretos.                 │ │
+│ └─────────────────────────────┘ │
+│                                 │
+│ Usuário                         │
+│ ┌─────────────────────────────┐ │
+│ └─────────────────────────────┘ │
+│                                 │
+│ Senha                          │
+│ ┌─────────────────────────────┐ │
+│ └─────────────────────────────┘ │
+│                                 │
+│ ┌─────────────────────────────┐ │
+│ │          Acessar            │ │
+│ └─────────────────────────────┘ │
+└─────────────────────────────────┘
+
+A mensagem aparece em vermelho (alert-danger).
+
+Login realizado com sucesso
+┌─────────────────────────────────┐
+│      Bem-vindo, admin!          │
+│                                 │
+│ Você está autenticado           │
+│ no sistema.                     │
+│                                 │
+│ ┌─────────────────────────────┐ │
+│ │            Sair             │ │
+│ └─────────────────────────────┘ │
+└─────────────────────────────────┘
+
+A mensagem "Login realizado com sucesso!" é exibida em verde (alert-success) antes da renderização da tela autenticada.
+
+Como colocar no README
+
+O ideal é executar a aplicação e tirar prints reais. Depois, salve-os em uma pasta chamada images ou assets.
+
+Exemplo:
+
+projeto-login/
+│
+├── app.py
+├── templates/
+├── images/
+│   ├── tela-login.png
+│   ├── login-sucesso.png
+│   └── login-erro.png
+└── README.md
+
+No README, basta adicionar:
+
+## 📷 Demonstração
+
+TELA DE LOGIN
+```text
+┌─────────────────────────────────┐
+│             Entrar              │
+│                                 │
+│ Usuário                         │
+│ ┌─────────────────────────────┐ │
+│ │                             │ │
+│ └─────────────────────────────┘ │
+│                                 │
+│ Senha                          │
+│ ┌─────────────────────────────┐ │
+│ │ •••••••••                   │ │
+│ └─────────────────────────────┘ │
+│                                 │
+│ ┌─────────────────────────────┐ │
+│ │          Acessar            │ │
+│ └─────────────────────────────┘ │
+└─────────────────────────────────┘
+```
+
+---
+
 ## 📖 Conceitos Demonstrados
 
 Este projeto aborda os seguintes conceitos do Flask:
